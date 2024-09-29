@@ -2,7 +2,7 @@
 
 🧙‍♀️ **Data Wizard**  
 🚀 Currently pursuing a **Computer Engineering Degree** with a specialization in **Data Science**  
-💡 Crafting intelligent solutions with Machine Learning, Deep Learning, and AI  
+💡 Crafting intelligent solutions with BI, Machine Learning, Deep Learning, and AI  
 ✉️ How to reach me: [kalthoum.dridi@esprit.tn](mailto:kalthoum.dridi@esprit.tn)  
 🔗 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/kalthoumdridi)
 
@@ -22,3 +22,6 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-Power%20BI-5B9A2D?logo=powerbi&logoColor=white&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-00B5E2?logo=qlik&logoColor=white&style=for-the-badge)
