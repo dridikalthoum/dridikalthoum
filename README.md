@@ -1,7 +1,7 @@
 # Hi, I'm Kalthoum👋 
 
 🧙‍♀️ **Data Wizard**  
-🌟 Currently pursuing a **Computer Engineering Degree** with a specialization in **Data Science**  
+🚀 Currently pursuing a **Computer Engineering Degree** with a specialization in **Data Science**  
 💡 Crafting intelligent solutions with Machine Learning, Deep Learning, and AI  
 ✉️ How to reach me: [kalthoum.dridi@esprit.tn](mailto:kalthoum.dridi@esprit.tn)  
 🔗 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/kalthoumdridi)
